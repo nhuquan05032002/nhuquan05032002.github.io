@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */	
+
+.head{
+	background-color: white;
+}
+.head img{
+	width: 150px;
+	margin-left: 50px;
+}
+.head ul li{
+	display: inline;
+	padding-left: 60px;
+}
+.head li:hover{
+	color: #CF080B;
+}
+.head ul{
+	display: inline;
+	font-size: 20px;
+	margin-left: 300px;
+	
+}
+.head input{
+	margin-left: 70px;
+	width: 250px;
+	height: 30px;
+}
+.banner{
+	background-image: url("BANNER-1-BLACK-FRIDAY-3.png");
+	background-size: cover;
+	height: 900px;
+	margin-top: 50px;
+}
+.banner input{
+	width: 200px;
+	height: 80px;
+	font-size: 30px;
+	background-color: white;
+	border-bottom: medium;
+	margin-top: 700px;
+	margin-left: 700px;
+}
+.banner input:hover{
+	background-color:#AF0709;
+}
+.tieu-de{
+	text-align: center;
+	margin-top: 50px;
+	font-size: 25px;
+}
+.body-1 img{
+	width: 200px;
+	height: 300px;
+	margin-top: 30px;
+}
+.body-1{
+	display: flex;
+	justify-content: space-around;
+}
+.anh{
+	text-align: center;
+}
+.anh h2:hover{
+	color: #AF0709;
+}
+.banner-1 img{
+	width:300px;
+	padding-left: 50px;
+}
+.banner-1{
+	display: flex;
+	
+}
+.banner-2 img{
+	width: 300px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+.banner-2{
+	display: flex;
+}
+.banner-4 img{
+	width: 980px;
+	margin-left: 20px;
+}
+.banner-5{
+	display: flex;
+	margin-left: 50px;
+}
+.icon{
+	position: fixed !important;
+	right: 50px;
+	bottom: 50px;
+	z-index: 5;
+}
+.shoes img{
+	width: 250px;
+	height: 350px;
+}
+.shoes{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.shoes h2:hover{
+	color:  #AF0709; 
+}
+.shoes-0 img{
+	width: 250px;
+	height: 350px;
+}
+.shoes-0{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.shoes-0 h2:hover{
+	color: #AF0709; 
+}
+.sale-bag img{
+	width: 700px;
+	margin-left: 300px;
+}
+.sale-hat img{
+	width: 600px;
+	
+	
+}
+.sale-day2{
+	display: flex;
+	width: 50%;
+}
+.footer{
+	background-color: white;
+	height: 250px;
+	width: 1500px;
+	margin-left: 200px;
+}
+
+.footer-2{
+	display:flex;
+	text-align: center;
+	margin-left: 100px;
+	align-items: center;
+	
+}
+.footer-2 div{
+	padding-left:100px;
+	margin-top: 40px;
+}
+.footer-3{
+	background-color:#DCDCDC;
+	height: 600px;
+	padding-top: 50px;
+}
+.text{
+	display: flex;
+	margin-left: 20px;
+	
+}
+.text div{
+	padding-left: 180px;
+	padding-top: 50px;
+	
+}
+.network{
+	display: flex;
+	margin-left: -1000px
+}
+.network i{
+	padding-left: -1000px;
+}
+.mang-xh{
+	display: flex;
+	margin-left: 1370px;
+}
+.mang-xh i{
+	margin-left: 20px;
+}
